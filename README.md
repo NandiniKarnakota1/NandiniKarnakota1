@@ -14,8 +14,11 @@ Hi, I'm **Nandini Karnakota**, a passionate **Computer Science Engineering stude
 ## 🌐 Socials:
 
 **Linkedin** : https://www.linkedin.com/in/nandini-karnakota-a46a322b1/  
+
 **Portfolio-Website** : https://nandini-portfolio-ochre.vercel.app/
+
 **Core Java Blogs** : https://hashnode.com/@nandini1
+
 **Email** : mailto:svnnandini@gmail.com 
 
 # 💻 Tech Stack:
