@@ -1,6 +1,15 @@
 # 💫 About Me:
-🔭 I’m currently working on Projects using Java<br>👯 I’m looking to collaborate on the java and frontend based projects<br>🌱 I’m currently learning java, frontend and a backend framework springboot<br>
+## 👩‍💻 About Me
 
+Hi, I'm **Nandini Karnakota**, a passionate **Computer Science Engineering student** and aspiring **Java Developer**. I enjoy building scalable applications and continuously improving my problem-solving skills.
+
+💡 I primarily work with **Java**, focusing on writing clean, efficient, and maintainable code. My interests include **backend development, object-oriented design, and building real-world projects** that solve meaningful problems.
+
+🚀 Currently, I am:
+- Strengthening my **Data Structures & Algorithms**
+- Building projects using **Java, Spring Boot, and modern web technologies**
+- Writing **technical blogs to share my knowledge**
+⭐ *"Code. Learn. Build. Repeat."*
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/NandiniKarnakota) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:svnnandini@gmail.com) 
