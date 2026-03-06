@@ -12,7 +12,11 @@ Hi, I'm **Nandini Karnakota**, a passionate **Computer Science Engineering stude
 ⭐ *"Code. Learn. Build. Repeat."*
 
 ## 🌐 Socials:
- (https://www.linkedin.com/in/nandini-karnakota-a46a322b1/)    [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:svnnandini@gmail.com) 
+
+**Linkedin** : https://www.linkedin.com/in/nandini-karnakota-a46a322b1/  
+**Portfolio-Website** : https://nandini-portfolio-ochre.vercel.app/
+**Core Java Blogs** : https://hashnode.com/@nandini1
+**Email** : mailto:svnnandini@gmail.com 
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)  ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)   ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
